@@ -160,7 +160,7 @@ const Footer = (_: FooterProps) => {
           <div className="fine-print">
             <p>
               Type set in{" "}
-              <a className="main-link" href="https://www.gent.media/manrope">
+              <a className="main-link" href="https://fonts.google.com/specimen/Manrope">
                 Manrope
               </a>{" "}
               by Mikhail Sharanda and{" "}
